@@ -1,5 +1,6 @@
 # NotoSanskr Regular
-[미리보기](https://cdn.rawgit.com/hoitblog/blogwebfont/master/index.html)
+[**미리보기**](https://cdn.rawgit.com/hoitblog/blogwebfont/master/index.html)
+
 ## CDN주소
 https://cdn.rawgit.com/hoitblog/blogwebfont/master/NotoSanskr.otf  
 https://cdn.rawgit.com/hoitblog/blogwebfont/master/NotoSanskr.woff  
