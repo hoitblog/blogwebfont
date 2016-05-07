@@ -1,14 +1,11 @@
 # NotoSanskr Regular
----
 
 ## CDN주소
----
 https://cdn.rawgit.com/hoitblog/blogwebfont/master/NotoSanskr.otf  
 https://cdn.rawgit.com/hoitblog/blogwebfont/master/NotoSanskr.woff  
 https://cdn.rawgit.com/hoitblog/blogwebfont/master/NotoSanskr.woff2
 
 ## 소스코드
----
 아래의 코드를 <style>과 </style> 사이에 붙여넣거나 CSS 파일에 추가합니다:  
 <pre><code>@font-face {
 	font-family: 'Noto Sans Korean';
