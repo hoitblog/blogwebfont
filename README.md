@@ -1,3 +1,3 @@
 # NotoSanskr Regular
 ---
-*CDN주소*
+**CDN주소**
