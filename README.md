@@ -17,3 +17,4 @@ https://cdn.rawgit.com/hoitblog/blogwebfont/master/NotoSanskr.woff2
 }</code></pre>
 이 소스도 위 소스와 동일하게 이용할 수 있습니다:
 <pre><code>@import url(//cdn.rawgit.com/hoitblog/blogwebfont/master/NotoSanskr.css);</code></pre>
+그리고 원하는 곳의 서체 이름을 [Noto Sans Korean]으로 지정합니다.
